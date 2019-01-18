@@ -7,7 +7,7 @@ https://proglib.io/p/ruby-cheatsheet/
 
 books:
 
-http://rusrails.ru/
+http://rusrails.ru/ <br>
 http://railstutorial.ru/chapters/4_0/sign-up#book_menu
 
 videos:
