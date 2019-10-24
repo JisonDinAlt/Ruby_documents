@@ -18,3 +18,6 @@ https://www.youtube.com/user/PlurrimiTube/playlists
 codes:
 https://htmlacademy.ru/ <br>
 https://www.codecademy.com/learn
+
+
+practice - https://edabit.com
