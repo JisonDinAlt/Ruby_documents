@@ -21,3 +21,7 @@ https://www.codecademy.com/learn
 
 
 practice - https://edabit.com
+
+# FRONTEND
+
+https://github.com/lydiahallie/javascript-questions/tree/master/ru-RU
